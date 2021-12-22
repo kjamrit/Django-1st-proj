@@ -21,4 +21,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-#/Users/amritkumarjha/Desktop/SUTT/Django/mysite/
+#cd /Users/amritkumarjha/Desktop/SUTT/Django/mysite/
